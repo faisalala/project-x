@@ -1,0 +1,29 @@
+:root{
+    --main-color: rgb(184, 152, 48);
+    --seco: green;
+    --pex: solid 2px;
+            }
+
+
+#title {
+    background: var(--main-color);
+    border:  var(--pex) var(--seco) ;
+
+}
+
+#decs {
+    background: var(--main-color);
+    border: var(--pex) var(--seco) ;
+
+}
+
+#btn {
+    background: var(--main-color);
+    border: var(--pex) var(--seco) ;
+
+}
+
+
+#text-h1 {
+    color: orange;
+}
